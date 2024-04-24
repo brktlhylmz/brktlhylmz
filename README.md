@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brktlhylmz&layout=compact&theme=prussian)
 
-[![Burak's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brktlhylmz)](https://github.com/anuraghazra/github-readme-stats)
+[![Burak's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brktlhylmz&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **brktlhylmz/brktlhylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
